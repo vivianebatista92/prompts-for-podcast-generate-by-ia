@@ -27,7 +27,7 @@ Utilizei uma esteira de prompts para gerar cada etapa do processo criativo.
 ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
-| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |  título  | Você é um roteirista de podcast e vamos criar um podcast de tecnologia feito por nerds focado na área de dados, e eu gostaria de uma ajuda sua para criar 5 sugestões de nomes criativos para um podcast de dados, gamer ou rpg, e que tenha algum trocadilho gamer ou de rpg no nome.
 O podcast vai falar sobre dicas e novidades sobre a área de dados e o que está acontecendo no mercado. O nome deve ser enxuto, deve ter algum trocadilho gamer ou de rpg, deve conter alguma palavra que remeta à área de dados, não quero que contenha palavras em inglês
                                                                                                                                                                                                     |
