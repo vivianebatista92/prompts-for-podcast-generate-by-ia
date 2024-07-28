@@ -21,6 +21,8 @@ Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através
 
 Utilizei uma esteira de prompts para gerar cada etapa do processo criativo.
 
+<a href="https://github.com/vivianebatista92/prompts-for-podcast-generate-by-ia/blob/main/output/Or%C3%A1culo%20dos%20Dados%20ep.%201.MP3"> CLIQUE AQUI PARA BAIXAR O PODCAST
+
 ## 📄 Prompts e ferramentas
 
 
